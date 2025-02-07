@@ -1,1 +1,2 @@
-Hello, Gitgit log --oneline!
+Hello, Git!
+master checkpoint here
