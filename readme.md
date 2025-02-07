@@ -1,2 +1,2 @@
-Hello, Gitgit log --oneline!
+Hello, Git!
 The THIRD line added
